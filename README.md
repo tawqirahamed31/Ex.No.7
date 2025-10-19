@@ -18,42 +18,8 @@ Procedure:
 3. Simulate natural user interaction through a simple interface or command-line system.
 4. Collect feedback or inputs from users and adapt responses accordingly.
 5. (Optional) Integrate basic memory to simulate preference adaptation.
-EXPECTED OUTPUT: -
-User Prompt 1:
+EXPECTED OUTPUT: - [https://docs.google.com/document/d/19nzoZja-hyzHkoU1KeUi5QYP6CR2Gy_rHm32njMbuGQ/edit?usp=sharing](url)
 
-“Add a reminder to submit my physics assignment tomorrow at 8 PM.”
-LLM Output:
-“Got it! I’ll remind you to submit your physics assignment tomorrow at 8 PM. Would you like me to add it to your daily summary?”
-
-User Prompt 2:
-
-“Show me all my tasks for today.”
-LLM Output:
-“Here’s your to-do list for today:
-1️⃣ Complete English essay
-2️⃣ Attend AI lab session at 2 PM
-3️⃣ Call your friend about the project discussion at 6 PM.”
-
-User Prompt 3:
-
-“Suggest some wellness tips for today.”
-LLM Output:
-“Sure 😊 Here are your wellness tips for today:
-🌿 Drink at least 2 liters of water.
-🧘 Take a 10-minute stretch break every 2 hours.
-🌤 Step outside for a short walk after lunch.”
-
-User Prompt 4:
-
-“What’s my free time tomorrow evening?”
-LLM Output:
-“You’re free between 6:30 PM and 8:00 PM. That might be a good time for relaxation or light exercise.”
-
-User Prompt 5:
-
-“Give me a motivational quote for studying.”
-LLM Output:
-“💡 ‘Success doesn’t come from what you do occasionally, it comes from what you do consistently.’ Keep pushing — every small step counts!”
 Output (Example Response by LLM):
 User: “Remind me to submit my project report tomorrow at 10 AM.”
 Assistant: “Got it! I’ll remind you to submit your project report tomorrow morning at 10 AM.”
@@ -63,7 +29,6 @@ Assistant: “Maybe you’ve been overworking! Try taking a 10-minute walk or hy
 
 User: “Show me all pending tasks for today.”
 Assistant: “You still have two pending tasks: 1️⃣ Complete Physics notes 2️⃣ Call your mentor at 5 PM.”
-
 Personal Productivity Assistant Features:
 1. Daily Task Manager:
 o Accept tasks via natural language (e.g., "Remind me to call mom at 6 PM").
