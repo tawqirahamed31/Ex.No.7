@@ -18,6 +18,7 @@ Procedure:
 3. Simulate natural user interaction through a simple interface or command-line system.
 4. Collect feedback or inputs from users and adapt responses accordingly.
 5. (Optional) Integrate basic memory to simulate preference adaptation.
+
 EXPECTED OUTPUT: - [https://docs.google.com/document/d/19nzoZja-hyzHkoU1KeUi5QYP6CR2Gy_rHm32njMbuGQ/edit?usp=sharing](url)
 
 Output (Example Response by LLM):
